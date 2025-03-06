@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning computer vision
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://chitransh-portfolio.webflow.io/ 
+- 📫 How to reach me contactme.chitransh@gmail.com
 
 <!---
 ChitranshHarshwal/ChitranshHarshwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
