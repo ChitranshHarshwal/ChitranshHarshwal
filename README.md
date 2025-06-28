@@ -1,10 +1,10 @@
 ## 👋 Hi, I'm Chitransh!
 
 💡 Passionate about **Data Science, AI, and Machine Learning**  
-📊 Specializing in **Predictive Modeling, Business Intelligence, and Data Analytics**  
+📊 Specialising in **Predictive Modeling, Business Intelligence, and Data Analytics**  
 🚀 Exploring **AI-driven solutions and real-world problem-solving**  
 🛠️ Tech Stack: **Python, SQL, Power BI, TensorFlow, and Alteryx**  
-📌 Always learning, building, and optimizing data-driven insights!  
+📌 Always learning, building, and optimising data-driven insights!  
 
 🔗 Let's connect on [LinkedIn](https://linkedin.com/in/charshwal) 🚀
 
